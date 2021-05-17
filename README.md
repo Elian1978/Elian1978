@@ -1,4 +1,20 @@
-### Hola soy Elian Rojas un apasionado por la tecnología y el desarrollo web, Ingeniero en Informática Empresarial de la Universidad de Costa Rica, desarrollador Full Stack Ruby on Rails, conocimiento en ruby ​​on rails, html, css, postgress, sqlite, javascript, consultas de Appi, SQL, Jquery, Github
+## ⚡ Hola soy Elian Rojas 
+***Un apasionado por la tecnología y el desarrollo web, Ingeniero en Informática Empresarial de la Universidad de Costa Rica, desarrollador Full Stack Ruby on Rails.
+---
+##### 🔭 Conocimientos  en:
+
+- Html 
+- Css
+- Ruby on Rails
+- Postgress
+- Sqlite
+- Javascript
+- Consultas de Appi
+- SQL
+- Jquery 
+- Github
+
+[Linkedin](https://cr.linkedin.com/in/elian-rojas)
 
 👋
 
