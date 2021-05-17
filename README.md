@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola soy Elian Rojas un apasionado por la tecnología y el desarrollo web, Ingeniero en Informática Empresarial de la Universidad de Costa Rica, desarrollador Full Stack Ruby on Rails, conocimiento en ruby ​​on rails, html, css, postgress, sqlite, javascript, consultas de Appi, SQL, Jquery, Github
+
+👋
 
 <!--
 **Elian1978/Elian1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
