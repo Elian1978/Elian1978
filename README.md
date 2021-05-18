@@ -1,5 +1,5 @@
 ## ⚡ Hola soy Elian Rojas 
-###Un apasionado por la tecnología y el desarrollo web, Ingeniero en Informática Empresarial de la Universidad de Costa Rica, desarrollador Full Stack Ruby on Rails.
+*Un apasionado por la tecnología y el desarrollo web, Ingeniero en Informática Empresarial de la Universidad de Costa Rica, desarrollador Full Stack Ruby on Rails.
 ---
 ##### 🔭 Conocimientos  en:
 
