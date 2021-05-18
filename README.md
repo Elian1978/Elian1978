@@ -3,7 +3,7 @@
 ### Un apasionado por la tecnología y el desarrollo web, Ingeniero en Informática Empresarial de la Universidad de Costa Rica, desarrollador Full Stack Ruby on Rails.
 ---
 
-![Imagen](https://gifer.com/en/7SvE/)
+![Imagen](https://i.gifer.com/7SvE.gif)
 ##### 💬 Conocimientos  en:
 
 - Html 
