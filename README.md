@@ -14,9 +14,8 @@
 - Jquery 
 - Github
 
-[Linkedin](https://cr.linkedin.com/in/elian-rojas)
+👯 [Linkedin](https://www.linkedin.com/in/elian-rojas/)
 
-👋
 
 <!--
 **Elian1978/Elian1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
